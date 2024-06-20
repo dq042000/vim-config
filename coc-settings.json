@@ -1,0 +1,8 @@
+{
+  "intelephense.environment.phpVersion": "8.2.0",
+  "intelephense.client.disableAddIskeyword": true,
+  "css.validate": false,
+  "suggest.autoTrigger": "none",
+  "diagnostic.enable": true,
+  "coc.preferences.messageLevel": "error"
+}
