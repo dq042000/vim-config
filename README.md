@@ -1,6 +1,4 @@
-# My Vim Style
-
-## Installation
+# Installation
 
 1. Clone `.vim` to your home directory.
 
