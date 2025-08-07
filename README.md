@@ -5,7 +5,7 @@
 1. Clone `.vim` to your home directory.
 
     ```bash
-    git clone https://github.com/dq042000/my-vim-style.git ~/.vim
+    git clone https://github.com/dq042000/vim-config.git ~/.vim
     ```
 
 2. Link to vimrc.
